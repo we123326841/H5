@@ -3,10 +3,10 @@
     height: 100px;
     background-color: aqua;
     padding: 20px;
-    border-color: black;
-    border: solid;
-    border-width: 100px;
 
+    border: solid;
+    border-width: 10px;
+    border-color: blue;
     margin: 30px;
 
 }
